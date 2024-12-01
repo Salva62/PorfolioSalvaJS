@@ -30,7 +30,7 @@
             "nombre": "PORFOLIO",
             "descripcion": "Creación de un porfolio y una breve introducción sobre mí y mis proyectos. He utilizado los lenguajes dichos posteriormente ",
             "tecnologías": "HTML, CSS Y Javascript ",
-            "imagen": "assets/Proyectos/Proyecto1.jpeg"
+            "imagen": "assets/Proyectos/Porfoliofoto.png"
         },
         {
             "nombre": "PÁGINA CON HTML Y CSS",
@@ -40,14 +40,14 @@
         },
         {
             "nombre": "Trabajo final JS",
-            "descripcion": "Creación de una web profesional para un trabajo final en Master D. desarrollarla tuve que implementar lógica de validació de formularios con JS y un mapa dinámico usando 'Google street map' ",
+            "descripcion": "Creación de una web profesional para un trabajo final en Master D. desarrollarla tuve que implementar lógica de validación de formularios con JS y un mapa dinámico usando 'Google street map' ",
             "tecnologías": "HTML, CSS Y Javascript ",
             "imagen": "assets/Proyectos/Proyecto3.jpeg"
         },
         {
             "nombre": "PROYECTO 4",
-            "descripcion": "Creación de un porfolio y una breve introducción sobre mí y mis proyectos. He utilizado los lenguajes dichos posteriormente ",
-            "tecnologías": "HTML, CSS Y Javascript ",
+            "descripcion": "Creación de una página web de ventas de productos utilizando PHP ",
+            "tecnologías": "HTML, CSS, JS, MYSQL y PHP ",
             "imagen": "assets/Proyectos/Proyecto4.jpeg"
         }
     ]
